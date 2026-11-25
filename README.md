@@ -73,7 +73,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow%20along%20on-GitHub-65464D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSingh46)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-12074630b/)
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-65464D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSingh46)
+[![Email](https://img.shields.io/badge/Say%20hello-Email-D98F9A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssinghshreyaa19@gmail.com)
 
 *Always happy to connect, collaborate, and learn something new.*
 
