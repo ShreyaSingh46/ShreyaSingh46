@@ -1,18 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Shreya Singh — AI and Data Science Developer</title>
-  <desc id="desc">A dark purple abstract developer banner with glowing orbital lines and geometric accents.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100b20"/><stop offset=".55" stop-color="#21113e"/><stop offset="1" stop-color="#090812"/></linearGradient>
-    <radialGradient id="glow"><stop offset="0" stop-color="#9b72ff" stop-opacity=".48"/><stop offset="1" stop-color="#9b72ff" stop-opacity="0"/></radialGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6c4ff" stop-opacity=".08"/><stop offset=".5" stop-color="#a984ff" stop-opacity=".8"/><stop offset="1" stop-color="#d6c4ff" stop-opacity=".08"/></linearGradient>
-  </defs>
-  <rect width="1200" height="360" fill="url(#bg)"/><circle cx="930" cy="150" r="270" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#line)" stroke-width="1.2"><ellipse cx="930" cy="175" rx="330" ry="95" transform="rotate(-24 930 175)"/><ellipse cx="930" cy="175" rx="330" ry="145" transform="rotate(24 930 175)"/><ellipse cx="930" cy="175" rx="230" ry="185" transform="rotate(66 930 175)"/><path d="M720 35 L1120 325 M780 20 L1180 310 M690 290 L1080 40" opacity=".35"/></g>
-  <g fill="#c8b2ff"><circle cx="745" cy="85" r="3"/><circle cx="1095" cy="250" r="4"/><circle cx="1000" cy="45" r="2.5"/><circle cx="850" cy="300" r="3"/></g>
-  <g opacity=".2" stroke="#b69cff"><path d="M0 40H1200 M0 320H1200 M55 0V360 M1145 0V360" stroke-dasharray="2 9"/></g>
-  <text x="82" y="137" fill="#bda5ff" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6">HELLO, I'M</text>
-  <text x="78" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1">SHREYA SINGH</text>
-  <rect x="82" y="230" width="58" height="3" rx="1.5" fill="#a984ff"/>
-  <text x="82" y="274" fill="#d9ceef" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="3">AI  ·  DATA SCIENCE  ·  DEVELOPMENT</text>
-  <text x="82" y="314" fill="#9b8bb8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">BUILDING IDEAS INTO PRACTICAL PROJECTS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Shreya Singh — AI and Data Science Student</title>
+  <desc id="desc">A clean, understated warm-white banner with simple typography and a fine muted accent line.</desc>
+  <rect width="1200" height="340" fill="#f7f6f2"/>
+  <path d="M0 28H1200 M0 312H1200" stroke="#e7e4dc" stroke-width="1"/>
+  <circle cx="1010" cy="170" r="210" fill="#eeece5"/>
+  <circle cx="1010" cy="170" r="150" fill="none" stroke="#d8d4c9" stroke-width="1"/>
+  <circle cx="1010" cy="170" r="110" fill="none" stroke="#e1ded5" stroke-width="1"/>
+  <text x="86" y="112" fill="#817b70" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4">HELLO, I'M</text>
+  <text x="82" y="183" fill="#292824" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="600" letter-spacing="-.8">Shreya Singh</text>
+  <path d="M86 211H145" stroke="#9b9384" stroke-width="2"/>
+  <text x="86" y="254" fill="#615e57" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.2">AI &amp; DATA SCIENCE STUDENT</text>
+  <text x="86" y="286" fill="#89857c" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".7">Learning · Building · Growing</text>
 </svg>
