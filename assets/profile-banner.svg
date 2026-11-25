@@ -1,35 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Shreya Singh — AI and Data Science Student</title>
-  <desc id="desc">A playful modern graphic in blush pink, cream, coral, lilac and butter yellow with friendly typography and abstract shapes.</desc>
+  <desc id="desc">A refined blush and cream portfolio banner with elegant typography and restrained abstract shapes.</desc>
   <defs>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="3" cy="3" r="1.5" fill="#DCA6A8" opacity=".5"/>
-    </pattern>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF9F5"/>
+      <stop offset="1" stop-color="#F7EAE5"/>
+    </linearGradient>
+    <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9C8C4"/>
+      <stop offset="1" stop-color="#D8B6B8"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="360" rx="28" fill="#FFF3ED"/>
-  <circle cx="1040" cy="42" r="168" fill="#F6D6D2"/>
-  <circle cx="1115" cy="300" r="132" fill="#E9E5F3"/>
-  <circle cx="930" cy="315" r="72" fill="#F8EBCB"/>
-  <path d="M820 0 C900 90 870 190 970 250 S1120 300 1200 240 L1200 0Z" fill="#F1C4BE" opacity=".7"/>
-  <path d="M0 292 C150 240 210 350 360 300 S570 250 680 360 H0Z" fill="#F8E2D8"/>
-  <rect x="745" y="32" width="400" height="285" rx="28" fill="url(#dots)" opacity=".85"/>
-  <g transform="translate(1000 165)">
-    <path d="M0 -62 C10 -28 28 -10 62 0 C28 10 10 28 0 62 C-10 28 -28 10 -62 0 C-28 -10 -10 -28 0 -62Z" fill="#D98F9A"/>
-    <circle cx="0" cy="0" r="15" fill="#FFF3ED"/>
+  <rect width="1200" height="360" fill="url(#base)"/>
+  <path d="M0 0H1200V18H0Z" fill="#B98489" opacity=".8"/>
+  <path d="M820 0H1200V360H960C1004 280 1000 205 930 151C876 109 832 63 820 0Z" fill="#F0DAD5"/>
+  <path d="M1002 0H1200V360H1090C1135 272 1120 196 1056 138C1018 104 995 53 1002 0Z" fill="url(#shape)" opacity=".72"/>
+  <path d="M900 360C925 293 912 233 866 188C832 155 807 110 809 64" fill="none" stroke="#C89A9C" stroke-width="1.5" opacity=".8"/>
+  <path d="M1070 0C1054 67 1081 120 1126 164C1172 209 1185 267 1160 360" fill="none" stroke="#B98489" stroke-width="1.2" opacity=".65"/>
+  <circle cx="1060" cy="181" r="94" fill="none" stroke="#FFF9F5" stroke-width="1.2" opacity=".85"/>
+  <circle cx="1060" cy="181" r="72" fill="none" stroke="#FFF9F5" stroke-width="1" opacity=".55"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="92" y="105" fill="#987276" font-size="15" font-weight="600" letter-spacing="5">PORTFOLIO  /  2026</text>
+    <text x="86" y="190" fill="#49383B" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="-1.8">Shreya Singh</text>
+    <path d="M94 220H158" stroke="#B98489" stroke-width="2"/>
+    <text x="94" y="263" fill="#765B5E" font-size="19" font-weight="600" letter-spacing="2.2">AI &amp; DATA SCIENCE STUDENT</text>
+    <text x="94" y="299" fill="#987C7D" font-size="15" letter-spacing=".7">Building with curiosity. Growing through code.</text>
   </g>
-  <g fill="#9B6571" font-family="Arial, Helvetica, sans-serif">
-    <text x="82" y="94" font-size="16" font-weight="700" letter-spacing="4">HELLO, I'M</text>
-    <text x="78" y="174" fill="#65464D" font-size="68" font-weight="700" letter-spacing="-2">Shreya Singh</text>
-    <rect x="84" y="202" width="72" height="5" rx="2.5" fill="#D98F9A"/>
-    <text x="84" y="250" fill="#76535A" font-size="21" font-weight="700" letter-spacing="1.8">AI &amp; DATA SCIENCE STUDENT</text>
-    <text x="84" y="286" fill="#8F6970" font-size="16" letter-spacing=".8">Curious mind · Creative builds · Continuous growth</text>
-  </g>
-  <g fill="#D98F9A">
-    <circle cx="700" cy="78" r="7"/><circle cx="730" cy="105" r="4"/><circle cx="680" cy="125" r="4"/>
-  </g>
-  <g fill="#9B86B4">
-    <circle cx="820" cy="280" r="5"/><circle cx="850" cy="300" r="3"/>
-  </g>
-  <text x="1090" y="100" fill="#9B6571" font-size="24" font-family="Arial, Helvetica, sans-serif">✿</text>
-  <text x="760" y="220" fill="#D98F9A" font-size="25" font-family="Arial, Helvetica, sans-serif">✦</text>
+  <text x="1130" y="320" fill="#987276" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="2">01</text>
 </svg>
