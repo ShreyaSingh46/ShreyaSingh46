@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Shreya Singh — AI and Data Science Student</title>
-  <desc id="desc">A refined blush and cream portfolio banner with elegant typography and restrained abstract shapes.</desc>
+  <desc id="desc">A clean blush and cream banner with the original bold sans-serif typography and refined abstract curved shapes.</desc>
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFF9F5"/>
@@ -12,7 +12,6 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="360" fill="url(#base)"/>
-  <path d="M0 0H1200V18H0Z" fill="#B98489" opacity=".8"/>
   <path d="M820 0H1200V360H960C1004 280 1000 205 930 151C876 109 832 63 820 0Z" fill="#F0DAD5"/>
   <path d="M1002 0H1200V360H1090C1135 272 1120 196 1056 138C1018 104 995 53 1002 0Z" fill="url(#shape)" opacity=".72"/>
   <path d="M900 360C925 293 912 233 866 188C832 155 807 110 809 64" fill="none" stroke="#C89A9C" stroke-width="1.5" opacity=".8"/>
@@ -20,11 +19,10 @@
   <circle cx="1060" cy="181" r="94" fill="none" stroke="#FFF9F5" stroke-width="1.2" opacity=".85"/>
   <circle cx="1060" cy="181" r="72" fill="none" stroke="#FFF9F5" stroke-width="1" opacity=".55"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="92" y="105" fill="#987276" font-size="15" font-weight="600" letter-spacing="5">PORTFOLIO  /  2026</text>
-    <text x="86" y="190" fill="#49383B" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="-1.8">Shreya Singh</text>
-    <path d="M94 220H158" stroke="#B98489" stroke-width="2"/>
-    <text x="94" y="263" fill="#765B5E" font-size="19" font-weight="600" letter-spacing="2.2">AI &amp; DATA SCIENCE STUDENT</text>
-    <text x="94" y="299" fill="#987C7D" font-size="15" letter-spacing=".7">Building with curiosity. Growing through code.</text>
+    <text x="86" y="112" fill="#817b70" font-size="16" letter-spacing="4">HELLO, I'M</text>
+    <text x="82" y="183" fill="#65464D" font-size="58" font-weight="600" letter-spacing="-.8">Shreya Singh</text>
+    <path d="M86 211H145" stroke="#B98489" stroke-width="2"/>
+    <text x="86" y="254" fill="#76535A" font-size="20" letter-spacing="1.2">AI &amp; DATA SCIENCE STUDENT</text>
+    <text x="86" y="286" fill="#987C7D" font-size="14" letter-spacing=".7">Learning · Building · Growing</text>
   </g>
-  <text x="1130" y="320" fill="#987276" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="2">01</text>
 </svg>
