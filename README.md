@@ -1,59 +1,50 @@
-<!-- Dark purple developer portfolio -->
+<!-- Minimal developer portfolio -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Shreya Singh — AI & Data Science Developer" width="100%" />
+<img src="assets/profile-banner.svg" alt="Shreya Singh — AI & Data Science Student" width="100%" />
 
 <br/>
 
-### AI & DATA SCIENCE UNDERGRADUATE · DEVELOPER
+**AI & DATA SCIENCE STUDENT**
 
-Building practical projects at the intersection of **AI, Machine Learning, Data Science, and Web Development**.
+Learning, building, and exploring through practical projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ShreyaSingh46-9b7bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSingh46)
+[GitHub](https://github.com/ShreyaSingh46) · [Repositories](https://github.com/ShreyaSingh46?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-- 🎓 Third-year B.Tech student in **Artificial Intelligence & Data Science**.
-- 💡 Interested in building useful applications with **Python, AI/ML, and web technologies**.
-- 🌱 Currently strengthening my skills through hands-on projects and continuous learning.
-- 🤝 Open to learning opportunities, internships, and collaboration on meaningful projects.
+- Third-year B.Tech student in **Artificial Intelligence & Data Science**.
+- Interested in **Machine Learning, Data Science, and Web Development**.
+- I enjoy learning by building projects and turning ideas into working applications.
+- Open to internships, collaboration, and opportunities to learn.
 
-## Tech Stack
+## Skills
 
-<div align="center">
+**Languages:** Python, JavaScript, HTML, CSS
 
-![Python](https://img.shields.io/badge/Python-9b7bff?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9b7bff?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-9b7bff?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9b7bff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9b7bff?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-9b7bff?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-9b7bff?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-9b7bff?style=for-the-badge&logo=figma&logoColor=white)
+**Frameworks & Tools:** React, Tailwind CSS, MySQL, Figma
 
-</div>
+## Selected Projects
 
-## Featured Projects
-
-| Project | What it does |
+| Project | Description |
 | --- | --- |
-| [ChurnGuard — Customer Churn Prediction](https://github.com/ShreyaSingh46/ChurnGuard-Customer-Churn-Prediction) | Machine learning application that predicts telecom customer churn and presents retention-oriented insights. |
-| [Autonomous Robot Navigation System](https://github.com/ShreyaSingh46/Autonomous-Robot-Navigation-System) | Visual grid-based navigation simulator comparing A*, BFS, DFS, and Uniform Cost Search. |
-| [Automated Travel Planner](https://github.com/ShreyaSingh46/Automated-Travel-Planner) | A travel-planning project exploring ways to organise trip information and planning. |
-| [Quest Solver Lab](https://github.com/ShreyaSingh46/quest-solver-lab) | Interactive problem-solving project with a web interface and Python-based solver/tests. |
-| [Smart Medical Diagnosis System](https://github.com/ShreyaSingh46/Smart-Medical-Diagnosis-System) | Educational Python project demonstrating symptom-based reasoning with Bayesian concepts. |
-| [DYPCOE College Website](https://github.com/ShreyaSingh46/DYPCOE-College-Website) | Responsive college website built with HTML, CSS, and JavaScript. |
+| [ChurnGuard](https://github.com/ShreyaSingh46/ChurnGuard-Customer-Churn-Prediction) | Customer churn prediction using machine learning. |
+| [Autonomous Robot Navigation](https://github.com/ShreyaSingh46/Autonomous-Robot-Navigation-System) | Grid-based pathfinding with A*, BFS, DFS, and UCS. |
+| [Automated Travel Planner](https://github.com/ShreyaSingh46/Automated-Travel-Planner) | Travel planning using classical AI search and optimization algorithms. |
+| [Quest Solver Lab](https://github.com/ShreyaSingh46/quest-solver-lab) | React interface connected to Python puzzle solvers. |
+| [Smart Medical Diagnosis](https://github.com/ShreyaSingh46/Smart-Medical-Diagnosis-System) | Educational project exploring Bayesian reasoning. |
+| [DYPCOE College Website](https://github.com/ShreyaSingh46/DYPCOE-College-Website) | College website built with HTML, CSS, and JavaScript. |
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaSingh46&show_icons=true&hide_border=true&bg_color=0d0b16&title_color=b69cff&text_color=e8e1ff&icon_color=9b7bff&ring_color=9b7bff" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSingh46&layout=compact&hide_border=true&bg_color=0d0b16&title_color=b69cff&text_color=e8e1ff" alt="Most used languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShreyaSingh46&show_icons=true&hide_border=true&bg_color=ffffff&title_color=444444&text_color=555555&icon_color=888888" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSingh46&layout=compact&hide_border=true&bg_color=ffffff&title_color=444444&text_color=555555" alt="Most used languages" />
 
 </div>
 
@@ -61,12 +52,6 @@ Building practical projects at the intersection of **AI, Machine Learning, Data 
 
 <div align="center">
 
-### Let's Connect
-
-I'm always happy to connect with fellow developers, learn from others, and explore new ideas.
-
-**[Explore my repositories](https://github.com/ShreyaSingh46?tab=repositories)** · **[Connect on GitHub](https://github.com/ShreyaSingh46)**
-
-<sub>Thanks for visiting my profile! 💜</sub>
+Thanks for stopping by.
 
 </div>
